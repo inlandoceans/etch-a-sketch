@@ -1,0 +1,1 @@
+We are making an etch-a-sketch entirely in javascript. Let's goooo boys.
